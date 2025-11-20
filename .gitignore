@@ -1,0 +1,21 @@
+*.egg-info
+# Dependency directory
+node_modules/
+
+# Build outputs
+/build
+/dist
+*.log
+
+# Environment variables
+.env
+.env.development
+.env.test
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+.pyc
